@@ -1,2 +1,1 @@
-# Cre-Course-Project
-Simulation of Catalytic Reforming of Naphtha Using MATLAB
+Developed a kinetic and thermal model for catalytic reforming of naphtha in a plug flow reactor (PFR). Implemented mass balance, energy balance, and catalyst decay equations and solved using MATLAB’s ode45. Achieved 85% paraffin conversion with 60% aromatic yield, aligning with industrial reforming performance.
